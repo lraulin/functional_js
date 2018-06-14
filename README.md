@@ -1,3 +1,1 @@
-# functional_js
-# functional_js
-# functional_js
+# Exercises from Beginning Functional JavaScript by Anto Aravinth
